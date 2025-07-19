@@ -1,204 +1,88 @@
-# MADONE Studio - Game Studio Website
+# 🚀 MADONE Studio — We Build Games That Inspire
 
-Website giới thiệu game studio chuyên nghiệp được tạo bằng HTML, CSS và JavaScript thuần.
+ <p align="center">
+  <img src="https://github.com/hoatv2211/hoatv2211.github.io/blob/main/assets/videos/intro.gif?raw=true" width="600"/>
+</p>
 
-## 📁 Cấu trúc file
+<p align="center">
+  <b>Unity | WebGL | Blockchain | Mobile | GameFi | Outsource</b><br>
+  <i>Game Development Studio based in Hanoi, Vietnam</i>
+</p>
 
-```
-├── index.html          # File HTML chính
-├── styles.css          # File CSS chính với animations và responsive
-├── script.js           # File JavaScript với tất cả tính năng tương tác
-├── data.js             # File data mẫu để dễ dàng thay đổi thông tin
-└── README.md           # File hướng dẫn
-```
+---
 
-## 🎨 Tính năng
+## 👋 About Us
 
-### ✅ Header & Navigation
-- Logo với gradient effect
-- Navigation menu responsive
-- Mobile hamburger menu
-- Smooth scroll navigation
-- Header background blur khi scroll
+**MADONE Studio** is a passionate, innovative game development team with over 7 years of experience in the gaming industry.  
+We craft **mobile, WebGL, and blockchain games** — from casual fun to mid-core strategy and GameFi projects.  
+Our mission? **Build games that inspire, connect, and bring joy to millions of players worldwide.**
 
-### ✅ Hero Section
-- Background image với overlay gradient
-- Floating elements với mouse parallax
-- Animated title với gradient text
-- Call-to-action buttons với hover effects
-- Scroll indicator animation
+- 🚀 **Unity 2D/3D Experts**  
+- 💎 **Web3/GameFi/NFT Specialists**  
+- 🏆 **Trusted by global clients & partners**  
+- 🎮 **Full-stack production: Design → Develop → Deploy**
 
-### ✅ Games Section
-- Grid layout responsive
-- Game cards với hover animations
-- Image scale effect
-- Button interactions
-- Scroll-triggered animations
+---
 
-### ✅ Studio Section
-- Team mission với layout grid
-- Statistics counters
-- Team member cards
-- Image hover effects với social links
-- Scroll animations
+## 🛠️ What We Do
 
-### ✅ Contact Section
-- Contact form với validation
-- Contact methods display
-- Social media links
-- Form submission với notification
-- Responsive grid layout
+- **Custom Game Development:** Unity (2D, 3D, WebGL), cross-platform builds
+- **Blockchain/GameFi Integration:** NFT, smart contracts, wallet connect, on-chain game logic
+- **UI/UX, Animation, VFX:** Creative and engaging game assets
+- **LiveOps & Backend:** Firebase, PlayFab, AWS, MongoDB, Docker
+- **Consulting & Outsourcing:** Agile project management, scalable solutions
 
-### ✅ Footer
-- Logo và description
-- Quick links navigation
-- Social media icons
-- Copyright information
+---
 
-## 🚀 Animations & Effects
+## 🌟 Featured Projects
 
-- **Scroll animations**: Fade in, slide in từ left/right
-- **Hover effects**: Scale, glow, color transitions
-- **Parallax effects**: Mouse following, scroll parallax
-- **Loading animation**: Page load spinner
-- **Ripple effects**: Button click animations
-- **Mobile animations**: Menu toggle, responsive transitions
+| Project            | Platform          | Tech             | Description                                    | Link                      |
+|--------------------|-------------------|------------------|------------------------------------------------|---------------------------|
+| Nekoverse          | Android/iOS       | Unity, GameFi    | Turn-based RPG x Blockchain                    | [Play Store](https://play.google.com/store/apps/dev?id=8040121384216169189) |
+| Gabros Games       | Android/iOS/WebGL | Unity            | Sandwich/DOP/DIY/Puzzle casual game series     | [Itch.io](https://o0-mad-0o.itch.io/) |
+| Guardians of Kingdom | Android/iOS    | Unity, Node.js   | Idle RPG defense game                          | [Play Store](https://play.google.com/store/apps/dev?id=8040121384216169189) |
+| Outsource Projects | Multi-platform    | Unity, Blockchain| Web3, Metaverse, P2E, NFT Game Development     | [Portfolio](https://github.com/hoatv2211) |
 
-## 📱 Responsive Design
+<sub>See more at our [Portfolio](https://github.com/hoatv2211) and [Itch.io](https://o0-mad-0o.itch.io/)</sub>
 
-- **Mobile-first approach**
-- **Breakpoints**: 768px, 480px
-- **Mobile menu**: Hamburger navigation
-- **Grid layouts**: Auto-responsive
-- **Touch-friendly**: Button sizes và spacing
+---
 
-## 🛠 Cách sử dụng
+## 👨‍💻 Our Tech Stack
 
-### 1. Thay đổi thông tin cơ bản
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=flat&logo=bitcoin&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
 
-Mở file `data.js` để thay đổi:
+---
 
-```javascript
-// Thông tin games
-const gamesData = [
-    {
-        title: "Tên Game Của Bạn",
-        description: "Mô tả game...",
-        image: "link-hình-ảnh",
-        // ...
-    }
-];
+## 🤝 Connect With Us
 
-// Thông tin team
-const teamData = [
-    {
-        name: "Tên thành viên",
-        role: "Vai trò",
-        description: "Mô tả...",
-        github: "link-github",
-        linkedin: "link-linkedin"
-    }
-];
+- 🌐 **Website:** [MADONE Studio](https://madone-studio.github.io/)
+- 🕹️ **Portfolio:** [Itch.io](https://o0-mad-0o.itch.io/)
+- 🏢 **LinkedIn:** [Tran Van Hoa](https://www.linkedin.com/in/hoatv/)
+- 📧 **Email:** hoatv.mad@gmail.com
+- 📱 **Telegram:** [@hoatv](https://t.me/Fish_Bros_bot)
+- 📺 **YouTube:** [Gameplay Demos](https://www.youtube.com/watch?v=2jsMmlp8tuc)
+- 🎮 **Google Play:** [Our Games](https://play.google.com/store/apps/dev?id=4917555335442358774)
+- 💾 **GitHub:** [@hoatv2211](https://github.com/hoatv2211)
 
-// Thông tin liên hệ
-const contactData = {
-    email: "email-của-bạn@domain.com",
-    telegram: "@username-telegram",
-    location: "Địa chỉ của bạn"
-};
-```
+---
 
-### 2. Thay đổi màu sắc và style
+## ❤️ Why Work With MADONE Studio?
 
-Mở file `styles.css` và tìm phần CSS variables:
+- We love games, and it shows in every pixel we make.
+- Rapid, agile, transparent workflow.
+- Top-tier tech, full-stack, and always up for new challenges.
+- End-to-end support — from idea to global launch.
 
-```css
-:root {
-    --primary-color: #ef4444;    /* Màu chính (đỏ) */
-    --secondary-color: #a855f7;  /* Màu phụ (tím) */
-    --background-color: #000000; /* Màu nền */
-    /* ... */
-}
-```
+**Let’s build your next hit game together! 🚀**
 
-### 3. Thay đổi hình ảnh
+---
 
-Thay thế các URL hình ảnh trong:
-- `index.html` (hero background, game images, team photos)
-- `data.js` (data mẫu)
-- `styles.css` (background images)
-
-### 4. Thêm tính năng mới
-
-File `script.js` chứa tất cả JavaScript:
-- Form handling
-- Scroll animations
-- Mobile navigation
-- Notification system
-- Parallax effects
-
-## 🎯 Customization Guide
-
-### Thay đổi logo và branding
-
-1. **Logo text**: Tìm `MADONE Studio` trong HTML và thay đổi
-2. **Logo icon**: Thay đổi chữ "M" trong class `.logo-icon`
-3. **Gradient colors**: Sửa các gradient trong CSS
-
-### Thêm section mới
-
-1. Thêm HTML structure
-2. Thêm CSS styling
-3. Thêm scroll animation trong JavaScript nếu cần
-
-### Thay đổi animations
-
-Tất cả animations được định nghĩa trong CSS:
-- `@keyframes` cho các animation
-- `transition` cho hover effects
-- `transform` cho các effects
-
-### Form integration
-
-Để kết nối form với backend thực:
-
-1. Tìm function `handleSubmit` trong `script.js`
-2. Thay thế phần simulation bằng API call thực
-3. Cập nhật validation rules nếu cần
-
-## 📋 Checklist tùy chỉnh
-
-- [ ] Thay đổi tên studio và logo
-- [ ] Cập nhật thông tin games
-- [ ] Thay đổi hình ảnh team members
-- [ ] Cập nhật thông tin liên hệ
-- [ ] Thay đổi màu sắc chủ đạo
-- [ ] Cập nhật social media links
-- [ ] Test responsive trên mobile
-- [ ] Test form submission
-- [ ] Check tất cả animations
-
-## 🌐 Browser Support
-
-- Chrome 60+
-- Firefox 60+
-- Safari 12+
-- Edge 79+
-
-## 📝 Notes
-
-- Tất cả hình ảnh hiện tại sử dụng Unsplash (demo)
-- Form chỉ có validation frontend, cần backend để submit thực
-- CSS sử dụng modern features (CSS Grid, Flexbox, CSS Variables)
-- JavaScript sử dụng ES6+ features
-
-## 🚀 Deploy
-
-Để deploy website:
-
-1. Upload tất cả files lên web hosting
-2. Đảm bảo `index.html` là file chính
-3. Test tất cả tính năng
-4. Cập nhật thông tin thực tế
-
-Website hoàn toàn static, không cần server-side processing.
+<p align="center"><b>Made with ❤️ by MADONE Studio Team</b></p>
